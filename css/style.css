@@ -3,5 +3,14 @@
     margin: 0;
 }
 body{
-    
+    font-family: "Space Grotesk", sans serif;
+}
+header{
+    background-image: url(../img/pattern.png);
+    background-color: aquamarine;
+}
+header img{
+    width: 250px;
+    height: 150px;
+    margin-left: 15px;
 }
